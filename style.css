@@ -134,14 +134,15 @@ nav .fa{
 }
 h1{
     font-size: 60px;
-    font-weight: 580;
+    font-weight: 500;
+    color: white;
 }
 p{
     font-size: 20px;
     font-weight: 300;
     line-height: 22px;
     padding: 10px;
-    color: grey;
+    color: white;
 }
 
 .row{
