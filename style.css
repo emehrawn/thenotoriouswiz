@@ -150,7 +150,7 @@ p{
     justify-content: space-between;
 }
 .arc-col{
-    flex-basis: 31%;
+    flex-basis: 50%;
     background: #fff3f3;
     border-radius: 1px;
     margin-bottom: 5%;
